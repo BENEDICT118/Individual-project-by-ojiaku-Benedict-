@@ -33,6 +33,9 @@ The grouping of cells that run vertically in an Excel sheet is called a Column. 
 **Cell**
 The boxes that are seen in a worksheet within the horizontal and vertical gridlines are called Cells. The cell name is a combination of the row and column numbers where it is located. In the image below, the highlighted cell is denoted with the name C9, meaning it is located at the intersection of column 9 and row C.
 
+![17324437724194043691030049281627](https://github.com/user-attachments/assets/ca062dfa-a497-4f06-9763-567d875567da)
+
+
 **Ribbon**
 The Ribbon is the area where tabs and icons are arranged in rows in the upper portion of the worksheet. It is like a complex toolbar. Click commands on the ribbon to perform the specified operations those commands represent. The highlighted area shows the location of the ribbon in Excel.
   

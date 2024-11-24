@@ -168,3 +168,11 @@ We also learnt about the query functions which are
 
 **SELECT** STAMENT: This is used to retrieve data. it returns all row from one or more column in a table
 **example** "select A,B,C will only return the data in A,B,C rows and corresponding column. Also the header is usually 1
+
+**WHERE** statement: This is used to specify a condition that must be satisfied. it filter out data and it comes after the **SELECT** keyword
+
+example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corresponding column **ONLY** where f=2014
+
+**AND/OR** they are used to filter records based on more than one condition 
+
+**LIKE** statement this is used in a where clause to search for a specified pattern in a column

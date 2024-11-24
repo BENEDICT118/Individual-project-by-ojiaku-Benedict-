@@ -204,3 +204,22 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 **limit** statement this restricts the number of results returned. it comes after the **SELECT** , **WHERE** , and **ORDER BY** keywords
 
 
+
+
+**GITHUB**
+
+in github i learnt how to document my project that is the step by step approach on how i achieve my project.
+
+githuf is an invaluable tools for data analyst to effectively manage and collaborate on their portfollio projects.
+
+i learnt about the objective of github which are
+
+- portfolio showcase
+- collaboration platform
+- project management
+
+
+  I also learnt how to create an account on github which you can also do here (~~~
+
+
+

@@ -136,3 +136,6 @@ A query can be considered a filter, pivot table, and much more.
 Here are some differences between excel and google Query sheet 
 
 1. excel is good for high volume of data while query sheet is used for low volume of data
+2. excel can be used in offline mode while query sheet can be used both offline and online mode
+3. excel cannot be use for collaboration but query sheet can be used for collaboration
+4. in excel operating system is required but for query sheet only web browser is required 

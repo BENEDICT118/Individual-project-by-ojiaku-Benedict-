@@ -154,3 +154,14 @@ For the colour differentiation
 1. ORANGE means DATA
 2. GREEN means QUERY
 3. BLUE means HEADER
+
+We also learnt about the query functions which are
+
+- SELECT
+- WHERE
+- AND
+- OR
+- LIKE
+- ORDER BY
+- GROUP BY
+- LIMIT STATEMENT e.t.c

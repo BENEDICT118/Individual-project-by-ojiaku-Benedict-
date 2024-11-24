@@ -38,4 +38,20 @@ The boxes that are seen in a worksheet within the horizontal and vertical gridli
 
 **Ribbon**
 The Ribbon is the area where tabs and icons are arranged in rows in the upper portion of the worksheet. It is like a complex toolbar. Click commands on the ribbon to perform the specified operations those commands represent. The highlighted area shows the location of the ribbon in Excel.
-  
+
+**Quick Access Toolbar**
+In Excel, the command bar that appears above or below the primary ribbon tabs is called the Quick Access Toolbar. It provides constant visibility and easy access to a set of preferred commands.
+
+**Function**
+Functions are built-in formulas to perform various calculations in Excel. In order to perform a function properly, you need to input the required arguments for the function in the specified order.
+
+For example, the formula
+=AVERAGE(D3:D12)
+returns the average value of the cells from D3 to D12. After inputting the equal sign and writing AVERAGE as a function, the cells whose values should be averaged need to be defined. If arguments are not entered in the correct order, the intended result will not be returned.
+
+**Formula**
+A Formula in Excel is simply an equation. We use formulas to perform calculations, manipulate cell data, check if data meets conditions, and so on.
+
+For example, here we use the
+=SUM(D3:D12)
+formula to calculate the sum of cells D3:D12.

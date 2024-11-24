@@ -185,6 +185,8 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 
 ![image](https://github.com/user-attachments/assets/09f57cd2-bbe4-4b19-8df7-5a3399e6d5e1)
 
+![image](https://github.com/user-attachments/assets/b721009a-6888-492d-8732-f7069ce6a025)
+
 **LIKE** statement this is used in a where clause to search for a specified pattern in a column
 
 **ORDER BY** statement this sort data either by ascending or descending orders.

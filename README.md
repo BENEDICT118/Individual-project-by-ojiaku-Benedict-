@@ -67,3 +67,10 @@ formula to calculate the sum of cells D3:D12.
 
 ![17324454101051836589218845708624](https://github.com/user-attachments/assets/3f2a4a8f-5eab-4543-966d-a50c2d2f2614)
 
+Also i learnt about cell referencing and the types of cell referencing which are the 
+
+- Absolute Referencing: is referencing a particular value that will be constant all through ($j $24). the $ sign means it is constant irrespective of either row or column
+- Row constant: it is making the row value constant e.g J$20
+- column constant: you making the column value constant e.g $J30
+
+

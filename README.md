@@ -232,7 +232,17 @@ how to create a respository file
 3. Give your Respository a name and description
 4. finally initialize with a read me file.
 
-I
+i also learned how to add file to my repository 
+
+1. uploading file you click on **Add file** button
+2. choose **upload file**
+3. select the file you want to add
+
+Also i learned about the **Markdown syntax** which is #
+
+# is used to give size or determine the size of your heading e.g
+
+# Skill harvest 
 
 
 

@@ -20,6 +20,11 @@ A workbook is a file that includes one or more Worksheets. A new workbook can be
  **Worksheet**
 A Worksheet, also called a spreadsheet, is a collection of cells in which you can enter and calculate data. Cells are arranged into columns and rows in a worksheet. Multiple worksheets can be arranged and stored in a Workbook.
 
+**Row**
+The group of all the cells that run horizontally in an Excel sheet is called a Row. The numbering on the left side of a worksheet denotes the row numbers. In the following picture, The highlighted area signifies row 7.
+
+
+
 **Column**
 The grouping of cells that run vertically in an Excel sheet is called a Column. The alphabetic numbering that can be seen at the top of the sheet denotes the column numbers. In the image below, B denotes the column that is highlighted.
 

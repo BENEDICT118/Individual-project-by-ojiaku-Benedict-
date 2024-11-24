@@ -133,3 +133,6 @@ The QUERY Google Sheets function helps you apply a query to a data table within 
 
 A query can be considered a filter, pivot table, and much more.
 
+Here are some differences between excel and google Query sheet 
+
+1. excel is good for high volume of data while query sheet is used for low volume of data

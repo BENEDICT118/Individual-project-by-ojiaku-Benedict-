@@ -219,7 +219,7 @@ i learnt about the objective of github which are
 - project management
 
 
-  I also learnt how to create an account on github which you can also do here (~~~
+  I also learnt how to create an account on github which you can also do here just [click Here](https://www.github.com)
 
 
 

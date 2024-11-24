@@ -123,3 +123,13 @@ I also learnt so many functions and their meaning and also how to excute them on
 
 Lastly to call-out your function box or dialogue function box you press CTRL+A
 
+
+
+**GOOGLE QUERY SHEET**
+
+google Query sheet is just similar to excel just that they are just little difference in them
+
+The QUERY Google Sheets function helps you apply a query to a data table within Google Sheets. For example, I often use it to extract subsets of data from main datasets. In turn, this helps me review areas of interest, giving me better analytical insight.
+
+A query can be considered a filter, pivot table, and much more.
+

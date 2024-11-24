@@ -138,4 +138,19 @@ Here are some differences between excel and google Query sheet
 1. excel is good for high volume of data while query sheet is used for low volume of data
 2. excel can be used in offline mode while query sheet can be used both offline and online mode
 3. excel cannot be use for collaboration but query sheet can be used for collaboration
-4. in excel operating system is required but for query sheet only web browser is required 
+4. in excel operating system is required but for query sheet only web browser is required
+
+
+**QUERY FUNCTION SYNTAX** (=Query(Data,Query,[Header])
+
+The Query has three define parameters
+
+1. **DATA** the range of data that needs to be analyzed
+2. **QUERY** the way data is processed, always enclosed in quotation
+3. **HEADER** An optional number for when you need to indicate the number of header rows in your data
+
+For the colour differentiation 
+
+1. ORANGE means DATA
+2. GREEN means QUERY
+3. BLUE means HEADER

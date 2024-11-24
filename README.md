@@ -64,3 +64,6 @@ A Formula in Excel is simply an equation. We use formulas to perform calculation
 For example, here we use the
 =SUM(D3:D12)
 formula to calculate the sum of cells D3:D12.
+
+![17324454101051836589218845708624](https://github.com/user-attachments/assets/3f2a4a8f-5eab-4543-966d-a50c2d2f2614)
+

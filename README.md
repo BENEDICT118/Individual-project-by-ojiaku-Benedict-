@@ -165,3 +165,6 @@ We also learnt about the query functions which are
 - ORDER BY
 - GROUP BY
 - LIMIT STATEMENT e.t.c
+
+**SELECT** STAMENT: This is used to retrieve data. it returns all row from one or more column in a table
+**example** "select A,B,C will only return the data in A,B,C rows and corresponding column. Also the header is usually 1

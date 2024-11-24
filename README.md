@@ -74,3 +74,46 @@ Also i learnt about cell referencing and the types of cell referencing which are
 - column constant: you making the column value constant e.g $J30
 
 
+
+
+**AVERAGE**	Calculates the average (arithmetic mean)
+
+**AVERAGEIF**	Calculates the average of a range based on a TRUE or FALSE condition
+
+**AVERAGEIFS**	Calculates the average of a range based on one or more TRUE/FALSE conditions
+
+**CONCAT**	Links together the content of multiple cells
+
+**COUNT**	Counts cells with numbers in a range
+
+**COUNTA**	Counts all cells in a range that has values, both numbers and letters
+
+**COUNTIFS**	Counts cells in a range based on one or more TRUE or FALSE condition
+
+**IF**	Returns values based on a TRUE or FALSE condition
+
+**IFS**	Returns values based on one or more TRUE or FALSE conditions
+
+**LEFT**	Returns values from the left side of a cell
+
+**LOWER** Reformats content to lowercase
+
+**Upper** Reformat or type content to uppercase
+
+**MAX**	Returns the highest value in a range
+**MEDIAN**	Returns the middle value in the data
+
+**MIN**	Returns the lowest value in a range
+
+**RAND**	Generates a random number
+=RIGHT	Returns values from the right side of a cell
+
+**SUM**	Adds together numbers in a range
+
+**SUMIF**	Calculates the sum of values in a range based on a TRUE or FALSE condition
+
+**SUMIFS**	Calculates the sum of a range based on one or more TRUE or FALSE condition
+
+**TRIM**	Removes irregular spacing, leaving one space between each value
+**VLOOKUP**	Allows vertical searches for values in a table
+

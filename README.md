@@ -171,7 +171,6 @@ We also learnt about the query functions which are
 
 ![image](https://github.com/user-attachments/assets/1b7ee25e-63ab-4085-9f57-857ae064c118)
 
-
 ![image](https://github.com/user-attachments/assets/62fc9a18-80dc-4a0a-910c-cacbeb5a6db3)
 
 
@@ -187,12 +186,15 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 
 ![image](https://github.com/user-attachments/assets/b721009a-6888-492d-8732-f7069ce6a025)
 
+
 **LIKE** statement this is used in a where clause to search for a specified pattern in a column
+
+![image](https://github.com/user-attachments/assets/3eed6f3a-37cd-4176-9185-55478c2ea6fa)
+
 
 **ORDER BY** statement this sort data either by ascending or descending orders.
 
 ![image](https://github.com/user-attachments/assets/129d045d-a44b-4a4d-907b-1d7d780b3425)
-
 
 
 **limit** statement this restricts the number of results returned. it comes after the **SELECT** , **WHERE** , and **ORDER BY** keywords

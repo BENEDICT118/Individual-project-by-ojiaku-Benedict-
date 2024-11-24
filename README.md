@@ -42,6 +42,9 @@ The Ribbon is the area where tabs and icons are arranged in rows in the upper po
 **Quick Access Toolbar**
 In Excel, the command bar that appears above or below the primary ribbon tabs is called the Quick Access Toolbar. It provides constant visibility and easy access to a set of preferred commands.
 
+![17324447318433654875928191212104](https://github.com/user-attachments/assets/701f4158-45c1-4c18-b0ec-abebd02be5e5)
+
+
 **Function**
 Functions are built-in formulas to perform various calculations in Excel. In order to perform a function properly, you need to input the required arguments for the function in the specified order.
 

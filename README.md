@@ -176,3 +176,9 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 **AND/OR** they are used to filter records based on more than one condition 
 
 **LIKE** statement this is used in a where clause to search for a specified pattern in a column
+
+**ORDER BY** statement this sort data either by ascending or descending orders.
+
+**limit** statement this restricts the number of results returned. it comes after the **SELECT** , **WHERE** , and **ORDER BY** keywords
+
+

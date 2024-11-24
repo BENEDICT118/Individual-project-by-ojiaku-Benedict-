@@ -180,6 +180,7 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 ![image](https://github.com/user-attachments/assets/ac2fdc47-598d-49ca-b0e0-03826f86de08)
 
 
+
 **AND/OR** they are used to filter records based on more than one condition 
 
 ![image](https://github.com/user-attachments/assets/09f57cd2-bbe4-4b19-8df7-5a3399e6d5e1)
@@ -187,14 +188,17 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 ![image](https://github.com/user-attachments/assets/b721009a-6888-492d-8732-f7069ce6a025)
 
 
+
 **LIKE** statement this is used in a where clause to search for a specified pattern in a column
 
 ![image](https://github.com/user-attachments/assets/3eed6f3a-37cd-4176-9185-55478c2ea6fa)
 
 
+
 **ORDER BY** statement this sort data either by ascending or descending orders.
 
 ![image](https://github.com/user-attachments/assets/129d045d-a44b-4a4d-907b-1d7d780b3425)
+
 
 
 **limit** statement this restricts the number of results returned. it comes after the **SELECT** , **WHERE** , and **ORDER BY** keywords

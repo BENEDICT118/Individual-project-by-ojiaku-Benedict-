@@ -221,5 +221,20 @@ i learnt about the objective of github which are
 
   I also learnt how to create an account on github which you can also do here just [click Here](https://www.github.com)
 
+also i understood what respositories is
+
+repository is a container or a folder were for my my project file.
+
+how to create a respository file
+
+1. click the "+" button
+2. choose "New respository"
+3. Give your Respository a name and description
+4. finally initialize with a read me file.
+
+I
+
+
+
 
 

@@ -25,9 +25,10 @@ The group of all the cells that run horizontally in an Excel sheet is called a R
 
 ![1732443610926284416041234168625](https://github.com/user-attachments/assets/b09f4c0a-db69-428b-9a9f-a2b3b71bb632)
 
-
 **Column**
 The grouping of cells that run vertically in an Excel sheet is called a Column. The alphabetic numbering that can be seen at the top of the sheet denotes the column numbers. In the image below, B denotes the column that is highlighted.
+
+![17324437026677611587439308812226](https://github.com/user-attachments/assets/1671972c-d39f-4146-bb68-f420a11d1b6a)
 
 **Cell**
 The boxes that are seen in a worksheet within the horizontal and vertical gridlines are called Cells. The cell name is a combination of the row and column numbers where it is located. In the image below, the highlighted cell is denoted with the name C9, meaning it is located at the intersection of column 9 and row C.

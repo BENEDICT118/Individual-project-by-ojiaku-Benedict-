@@ -23,6 +23,7 @@ A Worksheet, also called a spreadsheet, is a collection of cells in which you ca
 **Row**
 The group of all the cells that run horizontally in an Excel sheet is called a Row. The numbering on the left side of a worksheet denotes the row numbers. In the following picture, The highlighted area signifies row 7.
 
+![1732443610926284416041234168625](https://github.com/user-attachments/assets/b09f4c0a-db69-428b-9a9f-a2b3b71bb632)
 
 
 **Column**

@@ -240,9 +240,39 @@ i also learned how to add file to my repository
 
 Also i learned about the **Markdown syntax** which is #
 
-# is used to give size or determine the size of your heading e.g
+ is used to give size or determine the size of your heading e.g
 
 # Skill harvest 
+
+some other symbol which you can use to do your write up include 
+
+to indent your work your work or to put a bullet in your write up you use hyphen symbol (-) example 
+
+- boy
+- girl etc
+
+  to list your number or write up you first write 1 and then add a fullstop to it immediately then with a space
+
+  1. boy
+  2. girl e.t.c
+
+ to put a download link i  your write up first you have to 
+
+ 1. type the download here putting it in a block bracket [] and then immediately you open a () puting the https:// and the website inside the bracket. example
+
+[Download here](https://www.github.com)
+
+Also if you want to add a image or visual to your write up you first have to upload the file to the folder of your respository and then you can copy it and paste it where you want it to be
+
+if you want to bold your text you make use if the * symbol 
+
+here you make use of the * twice and put in the text immediately and then close it with the * symbol example **boy**
+
+if you want to write in italic you make use of one * and then put in your text and close immediately with one * example *boy*
+
+if you want to put emoji in your write you do that by putting the : symbol and then put in your text example 😆
+
+
 
 
 

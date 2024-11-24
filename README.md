@@ -119,5 +119,7 @@ I also learnt so many functions and their meaning and also how to excute them on
 
 **AMPERSAND** which is signifies as & is used to join two words together 
 
-**VLOOKUP**	Allows vertical searches for values in a table
+**VLOOKUP**	Allows vertical searches for values in a table.
+
+Lastly to call-out your function box or dialogue function box you press CTRL+A
 

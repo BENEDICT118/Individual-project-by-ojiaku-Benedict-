@@ -5,3 +5,9 @@ All through the course i was able to learn about
 - Google sheet Query
 - Gifhub
 - Power Bi
+
+- Microsoft excel: for excel i was able to know the introduction of excel, foundation of data, basic excel functions, Reports and dashboard, Data sources which includes On premises,cloud e.t.c
+
+  i will like to take you through all the learning i achieve in excel. But firstly what is Microsoft Excel
+
+  

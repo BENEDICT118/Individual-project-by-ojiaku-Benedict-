@@ -73,8 +73,7 @@ Also i learnt about cell referencing and the types of cell referencing which are
 - Row constant: it is making the row value constant e.g J$20
 - column constant: you making the column value constant e.g $J30
 
-
-
+I also learnt so many functions and their meaning and also how to excute them on my worksheet
 
 **AVERAGE**	Calculates the average (arithmetic mean)
 
@@ -101,12 +100,14 @@ Also i learnt about cell referencing and the types of cell referencing which are
 **Upper** Reformat or type content to uppercase
 
 **MAX**	Returns the highest value in a range
+
 **MEDIAN**	Returns the middle value in the data
 
 **MIN**	Returns the lowest value in a range
 
-**RAND**	Generates a random number
-=RIGHT	Returns values from the right side of a cell
+**RANDBETWEN**	Generates a random number
+
+**RIGHT**	Returns values from the right side of a cell 
 
 **SUM**	Adds together numbers in a range
 
@@ -115,5 +116,8 @@ Also i learnt about cell referencing and the types of cell referencing which are
 **SUMIFS**	Calculates the sum of a range based on one or more TRUE or FALSE condition
 
 **TRIM**	Removes irregular spacing, leaving one space between each value
+
+**AMPERSAND** which is signifies as & is used to join two words together 
+
 **VLOOKUP**	Allows vertical searches for values in a table
 

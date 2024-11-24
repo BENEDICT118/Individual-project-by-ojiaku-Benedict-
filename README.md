@@ -175,12 +175,11 @@ We also learnt about the query functions which are
 ![image](https://github.com/user-attachments/assets/62fc9a18-80dc-4a0a-910c-cacbeb5a6db3)
 
 
-
-
-
 **WHERE** statement: This is used to specify a condition that must be satisfied. it filter out data and it comes after the **SELECT** keyword
-
 example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corresponding column **ONLY** where f=2014
+
+![image](https://github.com/user-attachments/assets/ac2fdc47-598d-49ca-b0e0-03826f86de08)
+
 
 **AND/OR** they are used to filter records based on more than one condition 
 

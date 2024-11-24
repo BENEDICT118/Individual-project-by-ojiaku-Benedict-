@@ -169,6 +169,11 @@ We also learnt about the query functions which are
 **SELECT** STAMENT: This is used to retrieve data. it returns all row from one or more column in a table
 **example** "select A,B,C will only return the data in A,B,C rows and corresponding column. Also the header is usually 1
 
+
+
+
+
+
 **WHERE** statement: This is used to specify a condition that must be satisfied. it filter out data and it comes after the **SELECT** keyword
 
 example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corresponding column **ONLY** where f=2014
@@ -178,6 +183,10 @@ example **SELECT**  A,B,C WHERE F=2014.this returns data in A,B,C rows and corre
 **LIKE** statement this is used in a where clause to search for a specified pattern in a column
 
 **ORDER BY** statement this sort data either by ascending or descending orders.
+
+![image](https://github.com/user-attachments/assets/129d045d-a44b-4a4d-907b-1d7d780b3425)
+
+
 
 **limit** statement this restricts the number of results returned. it comes after the **SELECT** , **WHERE** , and **ORDER BY** keywords
 

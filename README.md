@@ -14,6 +14,9 @@ All through the course i was able to learn about
 
   They are some terms in Microsoft excel which i also learnt about during the course of the training and they are as follows
 
-  **Workbook**
+**Workbook**
 A workbook is a file that includes one or more Worksheets. A new workbook can be created from another blank workbook or a template. Simply go to the Blank Workbook option from the File tab on the Ribbon, or just press CTRL + N.
+
+ **Worksheet**
+A Worksheet, also called a spreadsheet, is a collection of cells in which you can enter and calculate data. Cells are arranged into columns and rows in a worksheet. Multiple worksheets can be arranged and stored in a Workbook.
   

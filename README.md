@@ -39,6 +39,9 @@ The boxes that are seen in a worksheet within the horizontal and vertical gridli
 **Ribbon**
 The Ribbon is the area where tabs and icons are arranged in rows in the upper portion of the worksheet. It is like a complex toolbar. Click commands on the ribbon to perform the specified operations those commands represent. The highlighted area shows the location of the ribbon in Excel.
 
+![17324451385654967481681396657887](https://github.com/user-attachments/assets/76791899-0b01-40ad-a0ad-3c11721ac64f)
+
+
 **Quick Access Toolbar**
 In Excel, the command bar that appears above or below the primary ribbon tabs is called the Quick Access Toolbar. It provides constant visibility and easy access to a set of preferred commands.
 

@@ -52,6 +52,9 @@ For example, the formula
 =AVERAGE(D3:D12)
 returns the average value of the cells from D3 to D12. After inputting the equal sign and writing AVERAGE as a function, the cells whose values should be averaged need to be defined. If arguments are not entered in the correct order, the intended result will not be returned.
 
+![1732444909619545054214193030562](https://github.com/user-attachments/assets/46a1283e-0d4d-4c2c-96aa-ae2040a71c95)
+
+
 **Formula**
 A Formula in Excel is simply an equation. We use formulas to perform calculations, manipulate cell data, check if data meets conditions, and so on.
 

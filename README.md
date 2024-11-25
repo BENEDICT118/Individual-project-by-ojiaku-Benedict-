@@ -295,6 +295,11 @@ and so
 
    here are some of the visual i created and also edit them from format
 
+   ![image](https://github.com/user-attachments/assets/5dfceb93-5c9c-486f-83ad-186dd5cc4756)
+
+
+   
+
 
 
 

@@ -1,4 +1,4 @@
-firstly i want to thank skill harvest for giving me this kind of opportunity to achieve my dream in becoming a data analyst also i want to thank my facilitator Mr for also impacting the knowledge in us he was really amazing all through the course of our training, he was phenomenal 
+firstly i want to thank skill harvest for giving me this kind of opportunity to achieve my dream in becoming a data analyst also i want to thank my facilitator Mr temidayo Ayeni for also impacting the knowledge in us he was really amazing all through the course of our training, he was phenomenal 
 
 All through the course i was able to learn about 
 - Microsoft Excel
@@ -271,6 +271,29 @@ here you make use of the * twice and put in the text immediately and then close 
 if you want to write in italic you make use of one * and then put in your text and close immediately with one * example *boy*
 
 if you want to put emoji in your write you do that by putting the : symbol and then put in your text example 😆
+
+
+**POWER BI**
+
+I learnt about power bi and all what it is used for
+
+power bi is a data visualization and business intelligence tool that convert data from different data source to interactive dashboard and Bi report
+
+componenet of power Bi
+
+1. power bi desktop
+2. power bi gateway
+3. power bi mobile app
+4. power bi service
+
+I also learnt the difference between power bi and tableau which are
+and so
+1. power bi has a limit of 1gb data in free version while tableau connect much lager data set
+2. power bi provides a free version while tableau doest not
+
+   i was able to learn how to merge and append data, also how to insert new row and column i was also able to buid my visual using table, slicer,chart,map and so on.
+
+   here are some of the visual i created and also edit them from format
 
 
 
